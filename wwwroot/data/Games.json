@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Super Mario 64",
+    "genre": "Platform",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg",
+    "description": "A pioneering 3D platformer where Mario explores Princess Peach's castle to save her from Bowser."
+  },
+  {
+    "id": 2,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "genre": "Action-adventure",
+    "imageUrl": "https://upload.wikimedia.org/wikibooks/en/9/98/Ocarina_of_Time_box_art.jpg",
+    "description": "An epic adventure game where Link must save Princess Zelda and the land of Hyrule from the evil Ganondorf."
+  },
+  {
+    "id": 3,
+    "name": "GoldenEye 007",
+    "genre": "First-person Shooter",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/GoldenEye007box.jpg",
+    "description": "A groundbreaking FPS based on the James Bond film, known for its engaging multiplayer mode."
+  },
+  {
+    "id": 4,
+    "name": "Banjo-Kazooie",
+    "genre": "Platform",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/sco/1/12/Banjo_Kazooie_Cover.png",
+    "description": "A colorful and whimsical 3D platformer starring the bear-and-bird duo Banjo and Kazooie."
+  },
+  {
+    "id": 5,
+    "name": "Star Fox 64",
+    "genre": "Rail Shooter",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/63/StarFox64_N64_Game_Box.jpg",
+    "description": "An action-packed rail shooter that introduced the Rumble Pak accessory for the N64 controller."
+  },
+  {
+    "id": 6,
+    "name": "Mario Kart 64",
+    "genre": "Racing",
+    "imageUrl": "https://mario.wiki.gallery/images/thumb/5/5f/MK64_Cover.png/1200px-MK64_Cover.png",
+    "description": "A fun and chaotic kart racing game featuring characters from the Mario franchise."
+  },
+  {
+    "id": 7,
+    "name": "Paper Mario",
+    "genre": "Role-playing",
+    "imageUrl": "https://mario.wiki.gallery/images/thumb/7/74/Paper_Mario_64_box.png/1200px-Paper_Mario_64_box.png",
+    "description": "A charming RPG featuring a unique, paper-thin version of Mario in a 3D world."
+  },
+  {
+    "id": 8,
+    "name": "Donkey Kong 64",
+    "genre": "Platform",
+    "imageUrl": "https://mario.wiki.gallery/images/thumb/f/fb/N64_donkeykong64.jpg/1200px-N64_donkeykong64.jpg",
+    "description": "A challenging 3D platformer starring Donkey Kong and his friends, packed with collectibles."
+  },
+  {
+    "id": 9,
+    "name": "Super Smash Bros.",
+    "genre": "Fighting",
+    "imageUrl": "https://ssb.wiki.gallery/images/4/45/SSB64_box.png",
+    "description": "A unique fighting game featuring an all-star roster of Nintendo characters."
+  },
+  {
+    "id": 10,
+    "name": "Pokémon Stadium",
+    "genre": "Strategy",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/70/Pokemonstadiumbox.jpg",
+    "description": "A game that brought Pokémon battles to life in 3D and let players use their Game Boy Pokémon in battle."
+  }
+]
